@@ -30,8 +30,8 @@ body {
     font-size: 60px;}
 
 .tx{
-color: #fff;
-font-family:Candara , sans-serif;
+    color: #fff;
+    font-family:Candara , sans-serif;
     text-align: center;
     width: 80%;
 }
@@ -52,15 +52,42 @@ font-family:Candara , sans-serif;
 
 
 .kolo {
-    width: 40px;
-    height: 40px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
     background: darkcyan;
     position: relative;
-    top: -20px;
-    left: px;
+    top: -30px;
+    left: 5px;
     /*flex-direction: column;*/
 }
+p.f{
+    width: 70px;
+    font-size:33px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black; ;
 
 
+}
+p.S {
+
+    width: 70px;
+    font-size:29px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:darkblue; ;
+}
+p.G{
+
+    width: 70px;
+    font-size:27px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gold; ;
+
+}
 
